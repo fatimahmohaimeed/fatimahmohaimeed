@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **Fatima.almohaimeed@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1AObMrEivS4y7QZ4D1U34Fo0inwXW9mLF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

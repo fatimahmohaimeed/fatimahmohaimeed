@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatimah Almohaimeed</h1>
 <h3 align="center">A software developer from Saudi Arabia</h3>
 
-<img src="https://github.com/n8tu/n8tu/blob/main/banner.png" alt="Hello world" style="max-width: 100%;">
+<img src="" alt="Hello world" style="max-width: 100%;">
 
 
 - 🌱 I’m currently learning **All about full stack developer**

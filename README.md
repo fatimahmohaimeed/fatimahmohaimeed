@@ -10,19 +10,18 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatima-almohaimeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-almohaimeed/" height="30" width="40" /></a>
 </p>
-
-
-Programming Languages: 
+ <h3 align="left">Programming Languages: </h3>
 - Python 
 - Javascript
 - Java
-- PHP 
+- C# 
 
-Frameworks: 
+ <h3 align="left">Frameworks:</h3> 
 - Django
 - Express
 - Spring
-- Laravel
+- MERN Stack
+
 
 
 <h3 align="left">Languages and Tools:</h3>

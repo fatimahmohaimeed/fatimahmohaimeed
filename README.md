@@ -3,8 +3,11 @@
 
   <img src="f-2.png" alt="logo" width="400" height="auto" />
   
+
+
+<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Fatimah+Almohaimeed+" alt="Typing SVG" /></a>
+</p>
   
-  <h1>Awesome Readme Template</h1>
   
   <p>
     An awesome README template for your projects! 

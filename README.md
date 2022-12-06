@@ -34,9 +34,6 @@ A full stack software developer with an information technology degree from Qassi
 <p align="left">
    
   <a href="mailto:Fatima.almohaimeed@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Fatimah's Email" /></a>
-  
- <a href="mailto:webmaster@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Fatimah's Email" /></a>
- 
  
 <a href="https://discord.com/invite/#3512" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Fatimah almohaimeed"/></a>
  

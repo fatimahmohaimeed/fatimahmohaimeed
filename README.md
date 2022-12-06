@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="f-2.png" alt="logo" width="200" height="auto" />
+  <img src="f-2.png" alt="logo" width="600" height="auto" />
   
   
   <h1>Awesome Readme Template</h1>

@@ -11,7 +11,7 @@
 
 <h1></h1>
  
- <h5 align="center"> A full stack software developer with an information technology degree from Qassim University.Skilled and qualified in web development and UI designing with extensive knowledge of programming languages and frameworks.</h5>
+ <h6 align=""> A full stack software developer with an information technology degree from Qassim University. Skilled and qualified in web development and UI designing with extensive knowledge of programming languages and frameworks.</h6>
 
 
 - 🌱 I’m currently learning **All about full stack developer**

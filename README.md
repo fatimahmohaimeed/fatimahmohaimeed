@@ -22,7 +22,7 @@ A full stack software developer with an information technology degree from Qassi
 
 <h1></h1>
 
-- 🙋🏻‍♀️ I’m a full stack software developer with an information technology degree , Skilled and qualified in web development and UI designing.
+- 🙋🏻‍♀️ I’m a full stack software developer with IT degree ,Skilled and qualified in **web development and UI designing**
 
 - 👩🏻‍💻 When it comes to coding I like challenges and brainstorming to **solve algorithms** and **build websites**
 

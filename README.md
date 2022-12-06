@@ -22,11 +22,20 @@ A full stack software developer with an information technology degree from Qassi
 
 <h1></h1>
 
+- 🙋🏻‍♀️ I’m a full stack software developer with an information technology degree , Skilled and qualified in web development and UI designing.
 
+- 👩🏻‍💻 When it comes to coding I like challenges and brainstorming to **solve algorithms** and **build websites**
 
 - 🌱 I’m currently learning **All about full stack developer**
 
 - 📫 How to reach me **Fatima.almohaimeed@gmail.com**
+
+- ⚒️ My projects are available at **Coming  soon!⏳**
+
+
+- ⚡ Fun fact **I like Reading 📖 ,  Games 🎮**
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -47,7 +56,7 @@ A full stack software developer with an information technology degree from Qassi
  
  
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools I know:</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -69,7 +78,7 @@ A full stack software developer with an information technology degree from Qassi
 
 
 <br>
-<h3 align="left">Languages and Tools I’m currently learning:</h3>
+<h3 align="left">Languages and tools I'm learning now:</h3>
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />

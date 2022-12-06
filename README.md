@@ -3,7 +3,7 @@
 
  <p align="center">
   
- <img src="f-2.png" alt="logo" width="300" height="auto" />
+ <img src="Screenshot 1444-05-12 at 2.01.25 PM.png" alt="logo" width="300" height="auto" />
 
   <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I'm+Fatima+A+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>

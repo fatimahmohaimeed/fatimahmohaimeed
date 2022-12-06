@@ -5,13 +5,10 @@
   
  <img src="f-2.png" alt="logo" width="300" height="auto" />
 
-  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Yousef+Ismail+" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Fatima+A+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
- <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Vivid-Project-Readme-Template!">
-</div>
+ </div>
 
-</div>
 
 
 <h1 align="center">Hi 👋, I'm Fatimah Almohaimeed</h1>

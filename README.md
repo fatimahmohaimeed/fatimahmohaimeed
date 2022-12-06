@@ -30,26 +30,16 @@ A full stack software developer with an information technology degree from Qassi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-- <a href="https://www.linkedin.com/in/fatima-almohaimeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-almohaimeed/" height="30" width="40" /></a>
+ 
+ <a href="https://www.linkedin.com/in/fatima-almohaimeed/"=for-the-badge&logo=linkedin&logoColor=white </a>
+ 
+ <a href="https://www.linkedin.com/in/fatima-almohaimeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-almohaimeed/" height="30" width="40" /></a>
  
 - <a href="https://discord.com/invite/#3512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fatimah almohaimeed" height="30" width="40" /></a>
 </p>
- <h3 align="left">Programming Languages: </h3>
- 
-- Python 
-- Javascript
-- Java
-- C# 
-
- <h3 align="left">Frameworks:</h3> 
- 
-- Django
-- Express
-- Spring
-- MERN Stack
 
 
-
+<h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

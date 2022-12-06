@@ -13,6 +13,11 @@
 
 <h3 align="center">A software developer from Saudi Arabia</h3>
 
+<h4 align="center"> A full stack software developer with an information technology degree from Qassim University.Skilled and qualified in web development and UI designing with extensive knowledge of programming languages and frameworks.</h4>
+ 
+ <h5 align="center"> A full stack software developer with an information technology degree from Qassim University.Skilled and qualified in web development and UI designing with extensive knowledge of programming languages and frameworks.</h5>
+
+
 - 🌱 I’m currently learning **All about full stack developer**
 
 - 📫 How to reach me **Fatima.almohaimeed@gmail.com**

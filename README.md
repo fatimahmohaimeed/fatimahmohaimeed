@@ -11,7 +11,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Fatimah Almohaimeed</h1>
 <h3 align="center">A software developer from Saudi Arabia</h3>
 
 - 🌱 I’m currently learning **All about full stack developer**

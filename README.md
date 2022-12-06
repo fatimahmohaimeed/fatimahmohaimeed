@@ -1,5 +1,15 @@
 
+<div align="center">
 
+  <img src="f-2.png" alt="logo" width="200" height="auto" />
+  
+  
+  <h1>Awesome Readme Template</h1>
+  
+  <p>
+    An awesome README template for your projects! 
+  </p>
+  </div>
 
 <h1 align="center">Hi 👋, I'm Fatimah Almohaimeed</h1>
 <h3 align="center">A software developer from Saudi Arabia</h3>

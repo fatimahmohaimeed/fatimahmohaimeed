@@ -33,6 +33,7 @@ A full stack software developer with an information technology degree from Qassi
 
 <p align="left">
    
+  <a href="mailto:Fatima.almohaimeed@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Fatimah's Email" /></a>
   
  <a href="mailto:webmaster@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Fatimah's Email" /></a>
  
@@ -92,7 +93,7 @@ A full stack software developer with an information technology degree from Qassi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimahmohaimeed&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="My github stats" /> 
 -->
-
+<br> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimahmohaimeed&show_icons=true&locale=en&layout=compact" alt="Fatimah AlMohaimeed"/></p>
 

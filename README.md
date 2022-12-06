@@ -32,11 +32,9 @@ A full stack software developer with an information technology degree from Qassi
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
- 
- <a href="mailto:webmaster@example.com">
+   
   
-  
- <a **Fatima.almohaimeed@gmail.com** target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Fatimah's Email" /></a>
+ <a href="mailto:webmaster@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Fatimah's Email" /></a>
  
  
 <a href="https://discord.com/invite/#3512" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Fatimah almohaimeed"/></a>
@@ -50,10 +48,8 @@ A full stack software developer with an information technology degree from Qassi
  
  
  
-
-<h3 align="left">Languages and Tools:</h3>
 <br>
-
+<h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -76,7 +72,7 @@ A full stack software developer with an information technology degree from Qassi
 
 
 <br>
-<h3 align="left">I’m currently learning:</h3>
+<h3 align="left">Languages and Tools I’m currently learning:</h3>
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />

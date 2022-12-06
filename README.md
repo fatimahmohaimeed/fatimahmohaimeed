@@ -18,6 +18,8 @@
 <h1></h1>
  
 A full stack software developer with an information technology degree from Qassim University. Skilled and qualified in web development and UI designing with extensive knowledge of programming languages and frameworks.
+
+
 <h1></h1>
 
 
@@ -30,12 +32,11 @@ A full stack software developer with an information technology degree from Qassi
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
- Fatima.almohaimeed@gmail.com
  
  <a href="mailto:webmaster@example.com">
   
   
- <a href="Fatima.almohaimeed@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Fatimah's Email" /></a>
+ <a **Fatima.almohaimeed@gmail.com** target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Fatimah's Email" /></a>
  
  
 <a href="https://discord.com/invite/#3512" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Fatimah almohaimeed"/></a>

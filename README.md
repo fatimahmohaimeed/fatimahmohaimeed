@@ -96,5 +96,6 @@ A full stack software developer with an information technology degree from Qassi
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimahmohaimeed&show_icons=true&locale=en" alt="Fatimah AlMohaimeed"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fatimahmohaimeed&show_icons=true&locale=en" alt="Fatimah AlMohaimeed"/></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimahmohaimeed&" alt="Fatimah AlMohaimeed"/></p>

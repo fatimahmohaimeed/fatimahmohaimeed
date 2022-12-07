@@ -11,7 +11,7 @@
   
  <img src="/logo/f-2.png" alt="logo" width="200" height="auto" />
 
-  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=11878C&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I'm+Fatima+A+Full+Stack+Developer+hii" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=11878C&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I'm+Fatima+A+Full+Stack+Developer+hi" alt="Typing SVG" /></a>
 </p>
  </div>
 
